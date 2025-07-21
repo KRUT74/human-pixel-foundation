@@ -132,7 +132,7 @@ This project uses the **Human Pixel Foundation License (HPFL)** - see the [LICEN
 
 ## 🌐 Website
 
-Visit our website: [The Human Pixel Foundation](https://humanpixel.space
+Visit our website: The Human Pixel Foundation, https://humanpixel.space
 
 ## 📞 Contact
 
