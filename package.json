@@ -1,0 +1,48 @@
+{
+  "name": "human-pixel-foundation",
+  "version": "1.0.0",
+  "description": "Guardians of humanity's deterministic futures - navigating Total Pixel Space for the benefit of all",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest",
+    "docs": "typedoc --out docs src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRUT74/human-pixel-foundation.git"
+  },
+  "keywords": [
+    "ai",
+    "ethics",
+    "humanitarian",
+    "pixel-space",
+    "deterministic",
+    "machine-learning",
+    "computer-vision",
+    "social-good"
+  ],
+  "author": "KRUT74 <humanpixel@aiagentlink.cloud>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KRUT74/human-pixel-foundation/issues"
+  },
+  "homepage": "https://github.com/KRUT74/human-pixel-foundation#readme",
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "jest": "^29.0.0",
+    "typescript": "^5.0.0"
+  }
+}
