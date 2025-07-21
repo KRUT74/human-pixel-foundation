@@ -1,7 +1,7 @@
 # Contributor License Agreement (CLA)
 ## The Human Pixel Foundation
 
-**Version 1.0 - Effective Date: 2024**
+**Version 1.0 - Effective Date: 2025**
 
 Thank you for your interest in contributing to The Human Pixel Foundation ("Foundation"). This Contributor License Agreement ("Agreement") documents the rights granted by contributors to the Foundation.
 
